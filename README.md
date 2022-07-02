@@ -4,6 +4,6 @@ Description: A grid based & turn based game that simulates the combat of Dungeon
 
 ### Info
 
-This project was coded in around 6 weeks for the "Game Engines" class at UNR. A majority of the project files can be found above, the library files have been excluded due to being to big (100g), along with the cubemap files.
+This project was coded in around 6 weeks for the "Game Engines" class at UNR. A majority of the project files can be found above, the library files have been excluded due to being to big (100gb), along with the cubemap files.
 
 The game can be played here: https://play.unity.com/mg/other/381-d-d-command-hotfix
